@@ -14,12 +14,12 @@
 
 I'm **Parvan Vezenkov**, the independent creator behind Vezen Labs. I build games and explore how playful interaction can turn a simple idea into an engaging digital experience.
 
-My focus is on intuitive controls, distinctive visuals and thoughtful iteration—from the first playable prototype to testing on Android.
+My focus is on intuitive controls, distinctive visuals and thoughtful iteration—from the first playable prototype to release.
 
 ## Selected projects
 
 ### UFO DRIFT: Space Arcade
-**Android · Closed testing**
+**Android · Available on Google Play**
 
 A one-touch space arcade game: hold to descend, release to rise. Navigate futuristic obstacles, collect optional speed-changing cores, explore ten cosmic environments and unlock new ships.
 
@@ -27,7 +27,7 @@ A one-touch space arcade game: hold to descend, release to rise. Navigate futuri
 - Local best scores, score sharing and an in-game feedback option.
 - Optional rewarded Continue and privacy controls.
 
-[Explore the project](projects/ufo-drift.md) · [Game website](https://vezenlabs.github.io/)
+[Get UFO DRIFT on Google Play](https://play.google.com/store/apps/details?id=com.parvan.ufodrift) · [Explore the project](projects/ufo-drift.md) · [Game website](https://vezenlabs.github.io/)
 
 ### PUT IN: Perfect Timing
 **Android · In development / device testing**
